@@ -1,0 +1,3085 @@
+{
+  "updated": "2026-09-07T21:28:09+00:00",
+  "from": "2025-09-08",
+  "to": "2026-09-07",
+  "scope": "Commits authored by soz223 on the default branches of owned public, non-fork repositories, over the last 365 days. Deduplicated by SHA. This is not the complete GitHub contribution calendar.",
+  "repositories": [
+    {
+      "name": "agent-test",
+      "url": "https://github.com/soz223/agent-test",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Brain-Network-Construction",
+      "url": "https://github.com/soz223/Brain-Network-Construction",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "BrainNet",
+      "url": "https://github.com/soz223/BrainNet",
+      "language": "Jupyter Notebook",
+      "stars": 2,
+      "forks": 4
+    },
+    {
+      "name": "BrainNet-fMRI-CodeDocs",
+      "url": "https://github.com/soz223/BrainNet-fMRI-CodeDocs",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "brainnetassistant.help",
+      "url": "https://github.com/soz223/brainnetassistant.help",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "BrainNetCode",
+      "url": "https://github.com/soz223/BrainNetCode",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "BrainNetIntroduction",
+      "url": "https://github.com/soz223/BrainNetIntroduction",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "CSE-398-498-Project",
+      "url": "https://github.com/soz223/CSE-398-498-Project",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "cse262hw1",
+      "url": "https://github.com/soz223/cse262hw1",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "FAAE",
+      "url": "https://github.com/soz223/FAAE",
+      "language": "Python",
+      "stars": 2,
+      "forks": 1
+    },
+    {
+      "name": "green-medagentbench",
+      "url": "https://github.com/soz223/green-medagentbench",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "HCP_fMRI",
+      "url": "https://github.com/soz223/HCP_fMRI",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "img",
+      "url": "https://github.com/soz223/img",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "LehighCSE262HWFunctionalityGrading",
+      "url": "https://github.com/soz223/LehighCSE262HWFunctionalityGrading",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "medgptoss_3d_preliminary_exp",
+      "url": "https://github.com/soz223/medgptoss_3d_preliminary_exp",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "mmnm202605",
+      "url": "https://github.com/soz223/mmnm202605",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "multi_modal_normative_modeling",
+      "url": "https://github.com/soz223/multi_modal_normative_modeling",
+      "language": "Jupyter Notebook",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "name": "OmniTumor",
+      "url": "https://github.com/soz223/OmniTumor",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "omnitumor-page",
+      "url": "https://github.com/soz223/omnitumor-page",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "OmniTumorPublic",
+      "url": "https://github.com/soz223/OmniTumorPublic",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "P-KEvoGraphRAG",
+      "url": "https://github.com/soz223/P-KEvoGraphRAG",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "P-MimicGraphRAG",
+      "url": "https://github.com/soz223/P-MimicGraphRAG",
+      "language": "HTML",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "name": "Parcellation",
+      "url": "https://github.com/soz223/Parcellation",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "radiotherapy_fm",
+      "url": "https://github.com/soz223/radiotherapy_fm",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "soz223",
+      "url": "https://github.com/soz223/soz223",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "soz223.github.io",
+      "url": "https://github.com/soz223/soz223.github.io",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "UniBrainAssistant",
+      "url": "https://github.com/soz223/UniBrainAssistant",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "unibrainassistant.com",
+      "url": "https://github.com/soz223/unibrainassistant.com",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "name": "vscode_claude_share",
+      "url": "https://github.com/soz223/vscode_claude_share",
+      "language": null,
+      "stars": 0,
+      "forks": 0
+    }
+  ],
+  "total": 114,
+  "ai": 56,
+  "active_days": 20,
+  "ai_days": 7,
+  "tools": {
+    "Codex": 7,
+    "Claude": 49
+  },
+  "languages": {
+    "Python": 8,
+    "Jupyter Notebook": 4,
+    "JavaScript": 3,
+    "HTML": 4
+  },
+  "days": [
+    {
+      "date": "2025-09-08",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-09",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-10",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-11",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-12",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-13",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-14",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-15",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-16",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-17",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-18",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-19",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-20",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-21",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-22",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-23",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-24",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-25",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-26",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-27",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-28",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-29",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-09-30",
+      "total": 1,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-01",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-02",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-03",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-04",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-05",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-06",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-07",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-08",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-09",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-10",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-11",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-12",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-13",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-14",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-15",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-16",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-17",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-18",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-19",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-20",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-21",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-22",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-23",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-24",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-25",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-26",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-27",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-28",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-29",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-30",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-10-31",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-01",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-02",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-03",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-04",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-05",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-06",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-07",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-08",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-09",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-10",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-11",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-12",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-13",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-14",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-15",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-16",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-17",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-18",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-19",
+      "total": 2,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-20",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-21",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-22",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-23",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-24",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-25",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-26",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-27",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-28",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-29",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-11-30",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-01",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-02",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-03",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-04",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-05",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-06",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-07",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-08",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-09",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-10",
+      "total": 1,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-11",
+      "total": 3,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-12",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-13",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-14",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-15",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-16",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-17",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-18",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-19",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-20",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-21",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-22",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-23",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-24",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-25",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-26",
+      "total": 6,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-27",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-28",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-29",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-30",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2025-12-31",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-01",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-02",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-03",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-04",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-05",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-06",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-07",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-08",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-09",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-10",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-11",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-12",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-13",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-14",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-15",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-16",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-17",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-18",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-19",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-20",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-21",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-22",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-23",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-24",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-25",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-26",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-27",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-28",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-29",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-30",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-01-31",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-01",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-02",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-03",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-04",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-05",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-06",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-07",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-08",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-09",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-10",
+      "total": 2,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-11",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-12",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-13",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-14",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-15",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-16",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-17",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-18",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-19",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-20",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-21",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-22",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-23",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-24",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-25",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-26",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-27",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-02-28",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-01",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-02",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-03",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-04",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-05",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-06",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-07",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-08",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-09",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-10",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-11",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-12",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-13",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-14",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-15",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-16",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-17",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-18",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-19",
+      "total": 11,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-20",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-21",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-22",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-23",
+      "total": 2,
+      "ai": 2
+    },
+    {
+      "date": "2026-03-24",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-25",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-26",
+      "total": 9,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-27",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-28",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-29",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-30",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-03-31",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-01",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-02",
+      "total": 1,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-03",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-04",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-05",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-06",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-07",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-08",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-09",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-10",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-11",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-12",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-13",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-14",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-15",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-16",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-17",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-18",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-19",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-20",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-21",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-22",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-23",
+      "total": 1,
+      "ai": 1
+    },
+    {
+      "date": "2026-04-24",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-25",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-26",
+      "total": 3,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-27",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-28",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-29",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-04-30",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-01",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-02",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-03",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-04",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-05",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-06",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-07",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-08",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-09",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-10",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-11",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-12",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-13",
+      "total": 40,
+      "ai": 33
+    },
+    {
+      "date": "2026-05-14",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-15",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-16",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-17",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-18",
+      "total": 4,
+      "ai": 4
+    },
+    {
+      "date": "2026-05-19",
+      "total": 4,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-20",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-21",
+      "total": 5,
+      "ai": 4
+    },
+    {
+      "date": "2026-05-22",
+      "total": 6,
+      "ai": 5
+    },
+    {
+      "date": "2026-05-23",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-24",
+      "total": 1,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-25",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-26",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-27",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-28",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-29",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-30",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-05-31",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-01",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-02",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-03",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-04",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-05",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-06",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-07",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-08",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-09",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-10",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-11",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-12",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-13",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-14",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-15",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-16",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-17",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-18",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-19",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-20",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-21",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-22",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-23",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-24",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-25",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-26",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-27",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-28",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-29",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-06-30",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-01",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-02",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-03",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-04",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-05",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-06",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-07",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-08",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-09",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-10",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-11",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-12",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-13",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-14",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-15",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-16",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-17",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-18",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-19",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-20",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-21",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-22",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-23",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-24",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-25",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-26",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-27",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-28",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-29",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-30",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-07-31",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-01",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-02",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-03",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-04",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-05",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-06",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-07",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-08",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-09",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-10",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-11",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-12",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-13",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-14",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-15",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-16",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-17",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-18",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-19",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-20",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-21",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-22",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-23",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-24",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-25",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-26",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-27",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-28",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-29",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-30",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-08-31",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-09-01",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-09-02",
+      "total": 2,
+      "ai": 0
+    },
+    {
+      "date": "2026-09-03",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-09-04",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-09-05",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-09-06",
+      "total": 0,
+      "ai": 0
+    },
+    {
+      "date": "2026-09-07",
+      "total": 10,
+      "ai": 7
+    }
+  ],
+  "commits": [
+    {
+      "sha": "e4b09f8d1353962c87886adf5d65498545aca20b",
+      "date": "2026-09-07",
+      "repo": "soz223",
+      "url": "https://github.com/soz223/soz223/commit/e4b09f8d1353962c87886adf5d65498545aca20b",
+      "tools": [
+        "Codex"
+      ],
+      "evidence": "Documented assistance"
+    },
+    {
+      "sha": "d958e16e5aa43a1b5f77d322162295ca30997bb1",
+      "date": "2026-09-07",
+      "repo": "soz223",
+      "url": "https://github.com/soz223/soz223/commit/d958e16e5aa43a1b5f77d322162295ca30997bb1",
+      "tools": [
+        "Codex"
+      ],
+      "evidence": "Documented assistance"
+    },
+    {
+      "sha": "d7fe08f186709a366205c10fa691b331b39a96d2",
+      "date": "2026-09-07",
+      "repo": "soz223",
+      "url": "https://github.com/soz223/soz223/commit/d7fe08f186709a366205c10fa691b331b39a96d2",
+      "tools": [
+        "Codex"
+      ],
+      "evidence": "Documented assistance"
+    },
+    {
+      "sha": "caf1f02be26a02a63baa74ca498f54751a5ac988",
+      "date": "2026-09-07",
+      "repo": "soz223",
+      "url": "https://github.com/soz223/soz223/commit/caf1f02be26a02a63baa74ca498f54751a5ac988",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "a64c62bce8f682a7a6a5fa03ab2bb349d471843f",
+      "date": "2026-09-07",
+      "repo": "soz223",
+      "url": "https://github.com/soz223/soz223/commit/a64c62bce8f682a7a6a5fa03ab2bb349d471843f",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "9f8899f1963bf8e0443ab05cbe6e5d058a9f7e50",
+      "date": "2026-09-07",
+      "repo": "soz223",
+      "url": "https://github.com/soz223/soz223/commit/9f8899f1963bf8e0443ab05cbe6e5d058a9f7e50",
+      "tools": [
+        "Codex"
+      ],
+      "evidence": "Documented assistance"
+    },
+    {
+      "sha": "65f35d5fc324fdd073287f528f158f89e5292b6e",
+      "date": "2026-09-07",
+      "repo": "soz223",
+      "url": "https://github.com/soz223/soz223/commit/65f35d5fc324fdd073287f528f158f89e5292b6e",
+      "tools": [
+        "Codex"
+      ],
+      "evidence": "Documented assistance"
+    },
+    {
+      "sha": "518d225d36708dadcf99f321752c8b8a006ffb5f",
+      "date": "2026-09-07",
+      "repo": "soz223",
+      "url": "https://github.com/soz223/soz223/commit/518d225d36708dadcf99f321752c8b8a006ffb5f",
+      "tools": [
+        "Codex"
+      ],
+      "evidence": "Documented assistance"
+    },
+    {
+      "sha": "3095468d580e8d0250414e1dbd6f45da62eec037",
+      "date": "2026-09-07",
+      "repo": "soz223",
+      "url": "https://github.com/soz223/soz223/commit/3095468d580e8d0250414e1dbd6f45da62eec037",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "065dcfc8ef13e0ae7cec7f3df715296aa3ae0c54",
+      "date": "2026-09-07",
+      "repo": "soz223",
+      "url": "https://github.com/soz223/soz223/commit/065dcfc8ef13e0ae7cec7f3df715296aa3ae0c54",
+      "tools": [
+        "Codex"
+      ],
+      "evidence": "Documented assistance"
+    },
+    {
+      "sha": "96e26c3d0398b0527ceb6691c5cccfb94d922e80",
+      "date": "2026-09-02",
+      "repo": "CSE-398-498-Project",
+      "url": "https://github.com/soz223/CSE-398-498-Project/commit/96e26c3d0398b0527ceb6691c5cccfb94d922e80",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "8161b5ea1ad0730d56c32385702f436c81622381",
+      "date": "2026-09-02",
+      "repo": "CSE-398-498-Project",
+      "url": "https://github.com/soz223/CSE-398-498-Project/commit/8161b5ea1ad0730d56c32385702f436c81622381",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "928e1b98756920fc98908eab8ddcec75a6419e0e",
+      "date": "2026-05-24",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/928e1b98756920fc98908eab8ddcec75a6419e0e",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "edb62af22d6f6449365a6543805b94a9c755857d",
+      "date": "2026-05-22",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/edb62af22d6f6449365a6543805b94a9c755857d",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "b3bcb04239a2d33035dd9f9871d11efc0d8e423e",
+      "date": "2026-05-22",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/b3bcb04239a2d33035dd9f9871d11efc0d8e423e",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "6d879d3f6f46db7625b7055d9831bf852cd15d46",
+      "date": "2026-05-22",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/6d879d3f6f46db7625b7055d9831bf852cd15d46",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "537329a250da3c3dbc2fc96efa77cb604a5d5c32",
+      "date": "2026-05-22",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/537329a250da3c3dbc2fc96efa77cb604a5d5c32",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "2662b9b2686154c25754ee3be10b7dd89825f7ed",
+      "date": "2026-05-22",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/2662b9b2686154c25754ee3be10b7dd89825f7ed",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "1811af57a75474f08459196f55ca43fc68e08bae",
+      "date": "2026-05-22",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/1811af57a75474f08459196f55ca43fc68e08bae",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "fcbf7214e2d6bcffdbfc73a8f2698af2e9b12e4d",
+      "date": "2026-05-21",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/fcbf7214e2d6bcffdbfc73a8f2698af2e9b12e4d",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "fbe62914d11dde49d703cc5e5f4fadf2e1de41e3",
+      "date": "2026-05-21",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/fbe62914d11dde49d703cc5e5f4fadf2e1de41e3",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "de4ba139df0a9195f58062f86615306953ca5161",
+      "date": "2026-05-21",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/de4ba139df0a9195f58062f86615306953ca5161",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "c254c1b7cce215a11d653d2592cab30f6b759e54",
+      "date": "2026-05-21",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/c254c1b7cce215a11d653d2592cab30f6b759e54",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "972b4fc1f6522acbc6dde4206ef68b384441e9e8",
+      "date": "2026-05-21",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/972b4fc1f6522acbc6dde4206ef68b384441e9e8",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "dc270ea208a222c0b86425d4c31356b0b03c27f3",
+      "date": "2026-05-19",
+      "repo": "omnitumor-page",
+      "url": "https://github.com/soz223/omnitumor-page/commit/dc270ea208a222c0b86425d4c31356b0b03c27f3",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "9695375d93d84f586ecd07e6374c3d6c95281052",
+      "date": "2026-05-19",
+      "repo": "omnitumor-page",
+      "url": "https://github.com/soz223/omnitumor-page/commit/9695375d93d84f586ecd07e6374c3d6c95281052",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "5e7948e4b37a6ad4cc28c667acbfb13ce196f709",
+      "date": "2026-05-19",
+      "repo": "omnitumor-page",
+      "url": "https://github.com/soz223/omnitumor-page/commit/5e7948e4b37a6ad4cc28c667acbfb13ce196f709",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "399722c6d8d5dc647a12354c9a8a264fbceacd9d",
+      "date": "2026-05-19",
+      "repo": "omnitumor-page",
+      "url": "https://github.com/soz223/omnitumor-page/commit/399722c6d8d5dc647a12354c9a8a264fbceacd9d",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "fea42e70abd911061bca5d3d4600cd6b48fee84c",
+      "date": "2026-05-18",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/fea42e70abd911061bca5d3d4600cd6b48fee84c",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "a5cf8e8bd3277ff8f43f12507675767e3a7a054c",
+      "date": "2026-05-18",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/a5cf8e8bd3277ff8f43f12507675767e3a7a054c",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "320fb97a05658b6c49bbf15e6912f11deb2bf316",
+      "date": "2026-05-18",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/320fb97a05658b6c49bbf15e6912f11deb2bf316",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "24d0ebcb57298c70352767165d6a575b25fbd7cb",
+      "date": "2026-05-18",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/24d0ebcb57298c70352767165d6a575b25fbd7cb",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "ff5b92c125a676f911a37e54877833f6aa0902e3",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/ff5b92c125a676f911a37e54877833f6aa0902e3",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "fe3047fc66cc80f7eaeb1fa92dd7b00c201848ce",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/fe3047fc66cc80f7eaeb1fa92dd7b00c201848ce",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "f7df3ea42e9c0f622fb0c6258cdf63523fb3af6f",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/f7df3ea42e9c0f622fb0c6258cdf63523fb3af6f",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "f6876da9a6b22899ecca0e5516d05099104696d1",
+      "date": "2026-05-13",
+      "repo": "medgptoss_3d_preliminary_exp",
+      "url": "https://github.com/soz223/medgptoss_3d_preliminary_exp/commit/f6876da9a6b22899ecca0e5516d05099104696d1",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "f374adfaa53553698431a46bb49963e942679718",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/f374adfaa53553698431a46bb49963e942679718",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "e8f1feec6cc3709080a013f1eb090c1678894dae",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/e8f1feec6cc3709080a013f1eb090c1678894dae",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "e053abf83fd0a0c3923f7eeb069ccc49e260785a",
+      "date": "2026-05-13",
+      "repo": "mmnm202605",
+      "url": "https://github.com/soz223/mmnm202605/commit/e053abf83fd0a0c3923f7eeb069ccc49e260785a",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "dc25259d07e7d041fbc50a6764dc42f2df044d1c",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/dc25259d07e7d041fbc50a6764dc42f2df044d1c",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "d3dfdf3c402cbc048f7abbc3ced1da91ebb74604",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/d3dfdf3c402cbc048f7abbc3ced1da91ebb74604",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "ce6b1c6bb415e072abbc344c1001e582fb5f9766",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/ce6b1c6bb415e072abbc344c1001e582fb5f9766",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "cde1e23a0b9eeffa36d4c4150754b50d3cf8b0cc",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/cde1e23a0b9eeffa36d4c4150754b50d3cf8b0cc",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "caa7503e970f73fdb357b3c9699575aaa76e2d66",
+      "date": "2026-05-13",
+      "repo": "medgptoss_3d_preliminary_exp",
+      "url": "https://github.com/soz223/medgptoss_3d_preliminary_exp/commit/caa7503e970f73fdb357b3c9699575aaa76e2d66",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "c7ffdc0e3050f73f4ee51285a12d85ac3e726ac7",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/c7ffdc0e3050f73f4ee51285a12d85ac3e726ac7",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "c35d93bea1687ac84de7cceb2c2ab0c069f0d06b",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/c35d93bea1687ac84de7cceb2c2ab0c069f0d06b",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "b76f11fd9d7ecdf9e69d46118f7b861f6649a8dc",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/b76f11fd9d7ecdf9e69d46118f7b861f6649a8dc",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "b2406507164214f99e0d7a9851857636e0f40bc0",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/b2406507164214f99e0d7a9851857636e0f40bc0",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "b1846aca4781bbc52c21d2c6621cb85a5df2f2e5",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/b1846aca4781bbc52c21d2c6621cb85a5df2f2e5",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "a9872c3dfdbbbfb94d0f4bc6395756d9b8470c1e",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/a9872c3dfdbbbfb94d0f4bc6395756d9b8470c1e",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "9ac04e75f334ce90ff0ec33b56a6fc5f40c0d664",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/9ac04e75f334ce90ff0ec33b56a6fc5f40c0d664",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "98b9f2243bb94546bbb336a6fbee0f9b8c3d10c3",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/98b9f2243bb94546bbb336a6fbee0f9b8c3d10c3",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "90c354db92b6055edd58d5e3354233f03e550959",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/90c354db92b6055edd58d5e3354233f03e550959",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "8e8f240e86a69b1718b2d515b4fd16f06dbc2786",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/8e8f240e86a69b1718b2d515b4fd16f06dbc2786",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "8c4aa4c6defb9471c4ae8aec500f3c275aa7d223",
+      "date": "2026-05-13",
+      "repo": "medgptoss_3d_preliminary_exp",
+      "url": "https://github.com/soz223/medgptoss_3d_preliminary_exp/commit/8c4aa4c6defb9471c4ae8aec500f3c275aa7d223",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "850e7d0caf19920267b9642ae3835817dfff76bd",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/850e7d0caf19920267b9642ae3835817dfff76bd",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "776c9c29a560f68cb3d4fadc0fa271dff4ccbfb1",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/776c9c29a560f68cb3d4fadc0fa271dff4ccbfb1",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "774c551c22c9e9b935ee14d321ed5f0d9e2f53f2",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/774c551c22c9e9b935ee14d321ed5f0d9e2f53f2",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "5a641f5fe2786017771c6649e33c3a03c2f073e9",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/5a641f5fe2786017771c6649e33c3a03c2f073e9",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "509332f909b4ff5de6e8048dfda8291433a412e1",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/509332f909b4ff5de6e8048dfda8291433a412e1",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "4bef2c2ebd49ea168b67a54ef40304726d2dfc36",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/4bef2c2ebd49ea168b67a54ef40304726d2dfc36",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "435c587708bb5e2e7e92d919ca7a607c9234854f",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/435c587708bb5e2e7e92d919ca7a607c9234854f",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "42906349e63561733b8eb09377ce4093637a289a",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/42906349e63561733b8eb09377ce4093637a289a",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "414a89aa1ed682f9b9582a569a74f91931b5cb89",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/414a89aa1ed682f9b9582a569a74f91931b5cb89",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "3e1de848158eedfce30114ecb331e6d403a65dc3",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/3e1de848158eedfce30114ecb331e6d403a65dc3",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "303c6ab0f507e987dc1959676db51036aa49713c",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/303c6ab0f507e987dc1959676db51036aa49713c",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "2747791378f3c65e760764e8576a290a276a4259",
+      "date": "2026-05-13",
+      "repo": "medgptoss_3d_preliminary_exp",
+      "url": "https://github.com/soz223/medgptoss_3d_preliminary_exp/commit/2747791378f3c65e760764e8576a290a276a4259",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "268a0b7104ecdcb260efd93a2fe9615784316315",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/268a0b7104ecdcb260efd93a2fe9615784316315",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "230c780cc4f04a0695a4ba349ec3997a6a77402d",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/230c780cc4f04a0695a4ba349ec3997a6a77402d",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "22bdc7e03ffcb2df7eb09d23ead93d896eee7c87",
+      "date": "2026-05-13",
+      "repo": "medgptoss_3d_preliminary_exp",
+      "url": "https://github.com/soz223/medgptoss_3d_preliminary_exp/commit/22bdc7e03ffcb2df7eb09d23ead93d896eee7c87",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "1a858cd3337043d33e14d3e54164dee132c14f57",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/1a858cd3337043d33e14d3e54164dee132c14f57",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "0ec9853f334a7851de149b3ff7a20ae91e499f9b",
+      "date": "2026-05-13",
+      "repo": "brainstorm_mayo",
+      "url": "https://github.com/soz223/brainstorm_mayo/commit/0ec9853f334a7851de149b3ff7a20ae91e499f9b",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "fe24138ba8253dc6d2f65233c43ea9373b04100c",
+      "date": "2026-04-26",
+      "repo": "unibrainassistant.com",
+      "url": "https://github.com/soz223/unibrainassistant.com/commit/fe24138ba8253dc6d2f65233c43ea9373b04100c",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "52de3c78637f8a789abcd6f7b3a480acbbf7ad32",
+      "date": "2026-04-26",
+      "repo": "unibrainassistant.com",
+      "url": "https://github.com/soz223/unibrainassistant.com/commit/52de3c78637f8a789abcd6f7b3a480acbbf7ad32",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "1dc129c968215cee191fab9c39ebd8fd86dc14d3",
+      "date": "2026-04-26",
+      "repo": "unibrainassistant.com",
+      "url": "https://github.com/soz223/unibrainassistant.com/commit/1dc129c968215cee191fab9c39ebd8fd86dc14d3",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "efca5f642ffd051ab003243b3ecff57e2d27ae85",
+      "date": "2026-04-23",
+      "repo": "P-KEvoGraphRAG",
+      "url": "https://github.com/soz223/P-KEvoGraphRAG/commit/efca5f642ffd051ab003243b3ecff57e2d27ae85",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "7008de45eb45bf4058222878d877201d32842c35",
+      "date": "2026-04-02",
+      "repo": "multi_modal_normative_modeling",
+      "url": "https://github.com/soz223/multi_modal_normative_modeling/commit/7008de45eb45bf4058222878d877201d32842c35",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "d6635bee0f07b23355064ae2d8698b8954276d53",
+      "date": "2026-03-26",
+      "repo": "brainnetassistant.help",
+      "url": "https://github.com/soz223/brainnetassistant.help/commit/d6635bee0f07b23355064ae2d8698b8954276d53",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "9944364214801a9cfca08ebeff3ebfa42e5e1f84",
+      "date": "2026-03-26",
+      "repo": "brainnetassistant.help",
+      "url": "https://github.com/soz223/brainnetassistant.help/commit/9944364214801a9cfca08ebeff3ebfa42e5e1f84",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "9700587e57276c14b06ff4e89764a9f06b0a1dbd",
+      "date": "2026-03-26",
+      "repo": "brainnetassistant.help",
+      "url": "https://github.com/soz223/brainnetassistant.help/commit/9700587e57276c14b06ff4e89764a9f06b0a1dbd",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "841ed6e6f51aec78b6d0ae67358316ead9cdfc95",
+      "date": "2026-03-26",
+      "repo": "brainnetassistant.help",
+      "url": "https://github.com/soz223/brainnetassistant.help/commit/841ed6e6f51aec78b6d0ae67358316ead9cdfc95",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "57926db81d38578cc169e24601ee7f8432ff6233",
+      "date": "2026-03-26",
+      "repo": "brainnetassistant.help",
+      "url": "https://github.com/soz223/brainnetassistant.help/commit/57926db81d38578cc169e24601ee7f8432ff6233",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "522cbbb9dd820123007baa1cdd932e89e4e6c6ae",
+      "date": "2026-03-26",
+      "repo": "brainnetassistant.help",
+      "url": "https://github.com/soz223/brainnetassistant.help/commit/522cbbb9dd820123007baa1cdd932e89e4e6c6ae",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "344bcc85231d65cbab1fcea6fdb63c14ae636a74",
+      "date": "2026-03-26",
+      "repo": "brainnetassistant.help",
+      "url": "https://github.com/soz223/brainnetassistant.help/commit/344bcc85231d65cbab1fcea6fdb63c14ae636a74",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "2ce0e056892e23863deeb2a8cc7c8054b7fb8b70",
+      "date": "2026-03-26",
+      "repo": "brainnetassistant.help",
+      "url": "https://github.com/soz223/brainnetassistant.help/commit/2ce0e056892e23863deeb2a8cc7c8054b7fb8b70",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "21ad5dd11620bbdf51a8174fc7b78e4acca39618",
+      "date": "2026-03-26",
+      "repo": "brainnetassistant.help",
+      "url": "https://github.com/soz223/brainnetassistant.help/commit/21ad5dd11620bbdf51a8174fc7b78e4acca39618",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "5aa56eba75011f77e94da4243d963150d03d6b35",
+      "date": "2026-03-23",
+      "repo": "UniBrainAssistant",
+      "url": "https://github.com/soz223/UniBrainAssistant/commit/5aa56eba75011f77e94da4243d963150d03d6b35",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "432f718953bd96bea40d7752b9b35c556751e4a5",
+      "date": "2026-03-23",
+      "repo": "UniBrainAssistant",
+      "url": "https://github.com/soz223/UniBrainAssistant/commit/432f718953bd96bea40d7752b9b35c556751e4a5",
+      "tools": [
+        "Claude"
+      ],
+      "evidence": "Commit trailer"
+    },
+    {
+      "sha": "f17ab233a2eca319814223573ab2b8447dbd815e",
+      "date": "2026-03-19",
+      "repo": "unibrainassistant.com",
+      "url": "https://github.com/soz223/unibrainassistant.com/commit/f17ab233a2eca319814223573ab2b8447dbd815e",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "e46b411de6b7d355510ee3caceb6febd7df8f98f",
+      "date": "2026-03-19",
+      "repo": "brainnetassistant.help",
+      "url": "https://github.com/soz223/brainnetassistant.help/commit/e46b411de6b7d355510ee3caceb6febd7df8f98f",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "da5fcdb037f566d49f52ffe6cf418fa9daa6a67d",
+      "date": "2026-03-19",
+      "repo": "brainnetassistant.help",
+      "url": "https://github.com/soz223/brainnetassistant.help/commit/da5fcdb037f566d49f52ffe6cf418fa9daa6a67d",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "88ff1574754f929113a3dadbd03c63738346e7db",
+      "date": "2026-03-19",
+      "repo": "unibrainassistant.com",
+      "url": "https://github.com/soz223/unibrainassistant.com/commit/88ff1574754f929113a3dadbd03c63738346e7db",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "83b135858a46b3fb0f952003df69e8325d84ba02",
+      "date": "2026-03-19",
+      "repo": "brainnetassistant.help",
+      "url": "https://github.com/soz223/brainnetassistant.help/commit/83b135858a46b3fb0f952003df69e8325d84ba02",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "6d90d30b2f90ce48264f013e1f317c37c3c1eee6",
+      "date": "2026-03-19",
+      "repo": "unibrainassistant.com",
+      "url": "https://github.com/soz223/unibrainassistant.com/commit/6d90d30b2f90ce48264f013e1f317c37c3c1eee6",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "2c7ab2a1f26323178ad167eea5a78867bd5cbd96",
+      "date": "2026-03-19",
+      "repo": "unibrainassistant.com",
+      "url": "https://github.com/soz223/unibrainassistant.com/commit/2c7ab2a1f26323178ad167eea5a78867bd5cbd96",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "0cb6453b0068a292f99d00cce646511886027ad4",
+      "date": "2026-03-19",
+      "repo": "unibrainassistant.com",
+      "url": "https://github.com/soz223/unibrainassistant.com/commit/0cb6453b0068a292f99d00cce646511886027ad4",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "0b3e0043fb848b764817cbb64134038c7d7dd27c",
+      "date": "2026-03-19",
+      "repo": "brainnetassistant.help",
+      "url": "https://github.com/soz223/brainnetassistant.help/commit/0b3e0043fb848b764817cbb64134038c7d7dd27c",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "0172f033bc9a2c4eea5b14bac741093fa593e1b3",
+      "date": "2026-03-19",
+      "repo": "brainnetassistant.help",
+      "url": "https://github.com/soz223/brainnetassistant.help/commit/0172f033bc9a2c4eea5b14bac741093fa593e1b3",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "009d5ebcdcef7750303b89fa2daef6125ce551fb",
+      "date": "2026-03-19",
+      "repo": "brainnetassistant.help",
+      "url": "https://github.com/soz223/brainnetassistant.help/commit/009d5ebcdcef7750303b89fa2daef6125ce551fb",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "dffa610216a727bfecaa0d019a265daf16a85a45",
+      "date": "2026-02-10",
+      "repo": "OmniTumorPublic",
+      "url": "https://github.com/soz223/OmniTumorPublic/commit/dffa610216a727bfecaa0d019a265daf16a85a45",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "4dd96bdfceb21fe1717da0def5c5fd5d8f2dfcc6",
+      "date": "2026-02-10",
+      "repo": "OmniTumorPublic",
+      "url": "https://github.com/soz223/OmniTumorPublic/commit/4dd96bdfceb21fe1717da0def5c5fd5d8f2dfcc6",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "f916d44f1fba3becbcbba95d9e57233c3f2bb4a3",
+      "date": "2025-12-26",
+      "repo": "green-medagentbench",
+      "url": "https://github.com/soz223/green-medagentbench/commit/f916d44f1fba3becbcbba95d9e57233c3f2bb4a3",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "f88c3adbea479487820897c75c533418713e40c6",
+      "date": "2025-12-26",
+      "repo": "agent-test",
+      "url": "https://github.com/soz223/agent-test/commit/f88c3adbea479487820897c75c533418713e40c6",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "e8f7b25e86bd4fec6e2ac5994889735e0bf40957",
+      "date": "2025-12-26",
+      "repo": "agent-test",
+      "url": "https://github.com/soz223/agent-test/commit/e8f7b25e86bd4fec6e2ac5994889735e0bf40957",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "8d9a22c21d988db8ca5ba9736ffa997e24896111",
+      "date": "2025-12-26",
+      "repo": "agent-test",
+      "url": "https://github.com/soz223/agent-test/commit/8d9a22c21d988db8ca5ba9736ffa997e24896111",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "668015607c9792e7762563f60ef2da5caeae9321",
+      "date": "2025-12-26",
+      "repo": "green-medagentbench",
+      "url": "https://github.com/soz223/green-medagentbench/commit/668015607c9792e7762563f60ef2da5caeae9321",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "4639b23264d6a1818685ea2b889034e99ec13e6a",
+      "date": "2025-12-26",
+      "repo": "green-medagentbench",
+      "url": "https://github.com/soz223/green-medagentbench/commit/4639b23264d6a1818685ea2b889034e99ec13e6a",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "f9ada45acec79473ed0a8053e5ce29c8e918c5ab",
+      "date": "2025-12-11",
+      "repo": "img",
+      "url": "https://github.com/soz223/img/commit/f9ada45acec79473ed0a8053e5ce29c8e918c5ab",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "611bed7faa49ca3dd08772d92c2bec6f48a5e1fd",
+      "date": "2025-12-11",
+      "repo": "green-medagentbench",
+      "url": "https://github.com/soz223/green-medagentbench/commit/611bed7faa49ca3dd08772d92c2bec6f48a5e1fd",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "48277683ed46ad4bf94e144f64d2ea0d547c4894",
+      "date": "2025-12-11",
+      "repo": "img",
+      "url": "https://github.com/soz223/img/commit/48277683ed46ad4bf94e144f64d2ea0d547c4894",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "2140cb9112e46d3529dec4580d0d7cba8380e1cb",
+      "date": "2025-12-10",
+      "repo": "green-medagentbench",
+      "url": "https://github.com/soz223/green-medagentbench/commit/2140cb9112e46d3529dec4580d0d7cba8380e1cb",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "b3e3fb6cea7a58df01e00f6f16c23fe0d757d4fd",
+      "date": "2025-11-19",
+      "repo": "green-medagentbench",
+      "url": "https://github.com/soz223/green-medagentbench/commit/b3e3fb6cea7a58df01e00f6f16c23fe0d757d4fd",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "7bd4b40cebd335b132c62cb7d693c658b2589da5",
+      "date": "2025-11-19",
+      "repo": "green-medagentbench",
+      "url": "https://github.com/soz223/green-medagentbench/commit/7bd4b40cebd335b132c62cb7d693c658b2589da5",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "7e03a5728eef4ffa91794c20871a7e6552fbc805",
+      "date": "2025-09-30",
+      "repo": "unibrainassistant.com",
+      "url": "https://github.com/soz223/unibrainassistant.com/commit/7e03a5728eef4ffa91794c20871a7e6552fbc805",
+      "tools": [],
+      "evidence": "Unattributed"
+    }
+  ]
+}

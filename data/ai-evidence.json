@@ -1,0 +1,12 @@
+{
+  "method": "These public profile commits were created with Codex assistance during the author's September 7, 2026 profile-building session. This is a documented assistance record, separate from automatic commit-trailer detection. No inference is made about earlier work.",
+  "commits": [
+    {"sha":"e4b09f8d1353962c87886adf5d65498545aca20b","tools":["Codex"]},
+    {"sha":"d7fe08f186709a366205c10fa691b331b39a96d2","tools":["Codex"]},
+    {"sha":"65f35d5fc324fdd073287f528f158f89e5292b6e","tools":["Codex"]},
+    {"sha":"d958e16e5aa43a1b5f77d322162295ca30997bb1","tools":["Codex"]},
+    {"sha":"9f8899f1963bf8e0443ab05cbe6e5d058a9f7e50","tools":["Codex"]},
+    {"sha":"065dcfc8ef13e0ae7cec7f3df715296aa3ae0c54","tools":["Codex"]},
+    {"sha":"518d225d36708dadcf99f321752c8b8a006ffb5f","tools":["Codex"]}
+  ]
+}

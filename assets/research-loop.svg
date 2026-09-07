@@ -1,0 +1,233 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="780" viewBox="0 0 1440 780" role="img" aria-labelledby="title desc" xml:lang="en">
+  <title id="title">Medical imaging · Multimodal foundation models · Research agents</title>
+  <desc id="desc">An original animated research illustration on a light background. Medical volumes and text inform multimodal foundation models. A floating single-lens research companion uses tools beside a clinician in a Mayo Clinic imaging setting. A compact compute shelf represents large-scale parallel software; extensive agent application experience is also highlighted. Scanning, feature alignment, tool activity and a returning research-feedback signal loop over eight seconds. This is a conceptual research illustration, not patient data, a clinical result, a claim that the researcher is a physician, or an institutional endorsement.</desc>
+  <defs>
+    <style>
+      text{font-family:'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif;fill:#293e48}
+      .serif{font-family:Georgia,'Times New Roman',serif}
+      .small{font-size:16px;fill:#647782}.label{font-size:23px;font-weight:600}
+      .outline{stroke:#70878a;stroke-width:1.8;stroke-linejoin:round;stroke-linecap:round}
+      .fine{fill:none;stroke:#8fa5aa;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round}
+      .motion{animation-duration:8s;animation-iteration-count:infinite;animation-timing-function:ease-in-out}
+      .scan{animation-name:scan}.slice{animation-name:slice}.align{animation-name:align}
+      .tool-a{animation-name:tool-a}.tool-b{animation-name:tool-b}.tool-c{animation-name:tool-c}.mask{animation-name:mask}.review{animation-name:review}
+      .neuron{animation-name:neuron}.n2{animation-delay:.45s}.n3{animation-delay:.9s}
+      .packet-a{animation-name:packet-a}.packet-b{animation-name:packet-b}.packet-c{animation-name:packet-c}
+      .feedback{animation-name:feedback}.dash{animation:dash 20s linear infinite}
+      .hover{animation-name:hover}.gaze{animation-name:gaze}.shutter{animation-name:shutter}.satellite{animation-name:satellite}.console-line{animation-name:console-line}
+      @keyframes hover{0%,100%{transform:translateY(1px)}50%{transform:translateY(-10px)}}
+      @keyframes gaze{0%,28%,100%{transform:translate(0,0)}40%,65%{transform:translate(7px,2px)}76%,86%{transform:translate(-3px,3px)}}
+      @keyframes shutter{0%,32%,35%,80%,83%,100%{opacity:0}33%,34%,81%,82%{opacity:1}}
+      @keyframes satellite{0%,100%{transform:translate(0,0)}50%{transform:translate(-10px,4px)}}
+      @keyframes console-line{0%,40%,100%{opacity:.3}50%,75%{opacity:1}}
+      @keyframes scan{0%,5%{transform:translateY(0);opacity:0}10%{opacity:.85}29%{transform:translateY(113px);opacity:.85}34%,100%{transform:translateY(113px);opacity:0}}
+      @keyframes slice{0%,100%{transform:translateY(0)}10%,25%{transform:translateY(-7px)}38%{transform:translateY(0)}}
+      @keyframes align{0%,18%,100%{opacity:.3}28%,44%{opacity:1}60%,90%{opacity:.5}}
+      @keyframes neuron{0%,20%,100%{opacity:.45}30%,42%{opacity:1}56%,90%{opacity:.6}}
+      @keyframes tool-a{0%,37%,100%{opacity:.45}43%,66%{opacity:1}80%{opacity:.55}}
+      @keyframes tool-b{0%,45%,100%{opacity:.45}51%,70%{opacity:1}84%{opacity:.55}}
+      @keyframes tool-c{0%,53%,100%{opacity:.45}59%,77%{opacity:1}88%{opacity:.55}}
+      @keyframes mask{0%,61%,100%{opacity:.14}72%,89%{opacity:.8}95%{opacity:.14}}
+      @keyframes review{0%,69%,100%{opacity:.25}78%,91%{opacity:1}}
+      @keyframes packet-a{0%,14%,31%,100%{opacity:0;transform:translateX(0)}16%{opacity:1;transform:translateX(0)}28%{opacity:1;transform:translateX(62px)}30%{opacity:0;transform:translateX(62px)}}
+      @keyframes packet-b{0%,34%,51%,100%{opacity:0;transform:translateX(0)}36%{opacity:1;transform:translateX(0)}48%{opacity:1;transform:translateX(57px)}50%{opacity:0;transform:translateX(57px)}}
+      @keyframes packet-c{0%,58%,75%,100%{opacity:0;transform:translateX(0)}60%{opacity:1;transform:translateX(0)}72%{opacity:1;transform:translateX(27px)}74%{opacity:0;transform:translateX(27px)}}
+      @keyframes feedback{0%,80%,100%{opacity:0;transform:translate(0,0)}82%{opacity:1;transform:translate(0,0)}85%{opacity:1;transform:translate(0,48px)}94%{opacity:1;transform:translate(-1110px,48px)}98%{opacity:0;transform:translate(-1110px,0)}}
+      @keyframes dash{to{stroke-dashoffset:-100}}
+      @media(prefers-reduced-motion:reduce){.motion,.dash{animation:none!important}.scan,.packet-a,.packet-b,.packet-c,.feedback{display:none}.mask{opacity:.6}.review,.align,.neuron{opacity:1}}
+    </style>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fcfdfb"/><stop offset="1" stop-color="#f1f6f7"/></linearGradient>
+    <linearGradient id="glass" x2="1" y2="1"><stop stop-color="#e8f6f4" stop-opacity=".9"/><stop offset="1" stop-color="#d8e9f2" stop-opacity=".55"/></linearGradient>
+    <radialGradient id="pod-shell" cx="30%" cy="25%" r="78%"><stop stop-color="#fffef3"/><stop offset=".7" stop-color="#edf2e8"/><stop offset="1" stop-color="#dbe7dc"/></radialGradient>
+    <linearGradient id="scanBand" x2="0" y2="1"><stop stop-color="#55bda9" stop-opacity="0"/><stop offset="1" stop-color="#55bda9" stop-opacity=".35"/></linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="m2 1 6 4-6 4" fill="none" stroke="#8fa5aa" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker>
+    <clipPath id="scanClip"><rect x="95" y="290" width="135" height="151" rx="8"/></clipPath>
+    <symbol id="axial" viewBox="0 0 100 110">
+      <path d="M50 7C28 4 12 18 9 40 4 63 15 96 35 102c10 4 21 3 31 0 20-7 29-34 27-57C92 20 74 5 50 7Z" fill="#dbe8e7" stroke="#7d969a" stroke-width="2"/>
+      <path d="M47 14C28 9 16 28 16 47c-3 24 9 45 27 50l4-15-4-14 4-15-3-15Zm7 0c17-1 29 15 31 33 2 23-8 42-25 50l-5-16 4-12-6-15 5-16Z" fill="#b9d1d0" stroke="#77969a" stroke-width="1.6"/>
+      <path d="M31 20q-12 6-6 17l-5 9 7 9-5 13 11 6-3 13m10-61-7 10 6 10-8 11 8 14m31-50q11 7 4 16l6 10-7 8 4 11-10 8 3 13M62 27l7 10-7 11 8 10-8 14" fill="none" stroke="#78979b" stroke-width="2" stroke-linecap="round"/>
+      <path d="m43 43-7 14 6 9 7-9 7 9 7-9-7-14-6 8Z" fill="#577780"/>
+      <path d="M50 14v26m0 27v28" stroke="#edf4f2" stroke-width="2"/>
+    </symbol>
+    <symbol id="brain" viewBox="0 0 180 140">
+      <path d="M20 92C3 78 8 54 25 48c0-21 20-35 39-28C76 4 99 8 109 23c22-4 39 9 40 29 23 8 27 34 11 47-10 15-29 16-42 10l-10 10-17-3-8 13-16-8-4-12C44 117 26 109 20 92Z" fill="#d8e7e8" stroke="#638894" stroke-width="2.3"/>
+      <path d="M29 48q22-8 26 12M64 20q-8 18 10 26m35-23q-19 9-14 27m53 3q-22-7-25 13M21 92q15-16 32-5m108 11q-14-15-28-5M75 47q-18 1-17 21l13 10-9 15m32-43-8 18 14 10-2 19m25-31-14 9 8 17-11 11M37 63l-8 13m46 17 5 13" fill="none" stroke="#6d929b" stroke-width="2.2" stroke-linecap="round"/>
+      <path d="m112 107 9 22 16 5-7-23" fill="#bcd1d6" stroke="#638894" stroke-width="2"/>
+    </symbol>
+    <symbol id="check" viewBox="0 0 20 20"><path d="m4 10 4 4 9-10" fill="none" stroke="#388b78" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="spark" viewBox="0 0 20 20"><path d="m10 1 2 7 7 2-7 2-2 7-2-7-7-2 7-2Z" fill="#caa65d"/></symbol>
+    <!-- Three-shield mark: Mayo Clinic; source documented in README. -->
+    <symbol id="mayo-shields" viewBox="7 31 44 35"><path d="m41.357 31.538h-8.717v9.819c0 4.504 1.567 7.643 4.301 9.826l-2e-3 -1.375a10.467 10.467 0 0 1-2.295-7.242v-2.571h3.301v11.212c0 4.088-1.147 9.295-8.447 12.557-6.937-3.1-8.319-7.956-8.439-11.94 3.272-2.197 5.176-5.502 5.176-10.467v-1.362h5.349v-2.023h-5.349v-1e-3h-2.004v1e-3h-5.194v11.784c0 0.41205 0.011 0.812 0.033 1.205v1e-3a11.078 11.078 0 0 0 1.98-1.63v-9.337h3.181v2.571c0 3.407-0.629 7.629-6.713 10.348-6.084-2.719-6.714-6.941-6.714-10.348v-9.022h13.427v3.453h2.004v-5.459h-17.434v9.819c0 6.553 3.316 10.213 8.717 12.256q0.915-0.34506 1.749-0.757c0.933 5.954 4.656 9.497 10.231 11.607 5.558-2.102 9.275-5.631 10.222-11.552q0.783 0.37948 1.637 0.702c5.4-2.043 8.717-5.703 8.717-12.256v-9.819zm6.713 11.028c0 3.406-0.629 7.629-6.713 10.348a16.288 16.288 0 0 1-1.531-0.78 20.524 20.524 0 0 0 0.133-2.3781v-11.784h-5.315v-4.428h13.426z" fill="#0067b1" />
+</symbol>
+  </defs>
+
+  <rect x="1" y="1" width="1438" height="778" rx="24" fill="url(#bg)" stroke="#dce7e6"/>
+  <path d="M48 46h32" stroke="#3e998b" stroke-width="4" stroke-linecap="round"/>
+  <text x="48" y="100" class="serif" font-size="43">Multimodal foundation models</text>
+  <text x="49" y="134" font-size="20" fill="#647782">Learning across images and text · Reasoning with research agents</text>
+  <path d="M48 161h1344" stroke="#dce6e5"/>
+
+  <!-- Research stations; original illustrations with a separately attributed institution mark. -->
+  <g><text x="51" y="204" class="label" style="fill:#277e72">Medical images + text</text><text x="405" y="204" class="label" style="fill:#776194">Foundation models</text><text x="748" y="204" class="label" style="fill:#a27c37">Research agents</text><text x="1094" y="204" class="label" style="fill:#447d9f">Clinical collaboration</text></g>
+  <ellipse cx="179" cy="529" rx="137" ry="17" fill="#e2ece8"/><ellipse cx="534" cy="529" rx="136" ry="17" fill="#e7e4ee"/><ellipse cx="865" cy="529" rx="141" ry="17" fill="#eae8df"/><ellipse cx="1234" cy="529" rx="148" ry="17" fill="#e1eaf0"/>
+
+  <!-- A volumetric imaging workbench and report. -->
+  <g class="outline">
+    <path d="m75 469 148-13 42 26-143 24-47-22Z" fill="#c8dcd8"/><path d="m75 469 47 15 143-22v20l-143 24-47-22Z" fill="#d6e6e0"/>
+    <path d="M70 321q0-57 73-64h33q64 7 64 62v140l-43 14-127-14Z" fill="#eff5ef"/>
+    <path d="m176 257 31 13q49 16 48 61v128l-15 0V319q-3-48-64-62Z" fill="#bcd5cf"/>
+    <path d="M91 322q0-43 62-44t64 44v126H91Z" fill="#d0e2dd"/>
+    <rect x="99" y="289" width="124" height="152" rx="19" fill="#344e56"/>
+    <use href="#axial" x="109" y="304" width="102" height="118" stroke="none"/>
+    <path d="m208 308 6-3m-6 8 6-3m-6 8 6-3" fill="none" stroke="#9dc0b9"/>
+    <circle cx="81" cy="433" r="4" fill="#72b4a3"/><circle cx="81" cy="447" r="3" fill="#dbbf82"/>
+  </g>
+  <g clip-path="url(#scanClip)"><g class="motion scan"><rect x="99" y="291" width="125" height="23" fill="url(#scanBand)"/><path d="M100 314h122" stroke="#7ed2bf" stroke-width="2"/></g></g>
+  <g transform="translate(45 452)" class="outline">
+    <path d="m0 22 83-28 73 31-83 30Z" fill="#e4f0ed"/><path d="m0 30 73 25 83-30v9L73 64 0 39Z" fill="#c3dad4"/>
+    <g class="motion slice"><path d="m0 5 83-28 73 31-83 30Z" fill="#f4faf6"/><path d="m0 5 73 33 83-30v7L73 45 0 12Z" fill="#abcfc5"/><ellipse cx="78" cy="7" rx="35" ry="14" fill="#b7d2cd" transform="rotate(2 78 7)"/><path d="M55 5q16-14 44-1M58 13q18 8 37-3m-19-9v19" fill="none" stroke="#779e96"/></g>
+  </g>
+  <g transform="translate(226 352) rotate(7)" class="outline"><path d="M0 0h61l16 17v139H0Z" fill="#fffefb"/><path d="M61 0v17h16" fill="#dae9e3"/><rect x="12" y="31" width="29" height="6" rx="3" fill="#8ab9ac" stroke="none"/><path d="M12 52h48m-48 12h40m-40 12h45m-45 27h42m-42 12h32m-32 12h38" class="fine"/><text x="12" y="94" font-size="12" fill="#4c8378" stroke="none">Report</text></g>
+
+  <!-- A transparent model volume with aligned image and text representations. -->
+  <g class="outline">
+    <path d="m400 482 115-40 143 43-116 46-142-36Z" fill="#dedbea"/><path d="m400 482 142 40 116-37v29l-116 46-142-49Z" fill="#c5bfd8"/>
+    <path d="m542 522 116-37v29l-116 46Z" fill="#b2abc8"/>
+    <path d="m402 496 140 40 113-44m-253 17 140 40 113-45" fill="none" stroke="#968bad" stroke-width="1.2"/>
+    <g transform="translate(412 492) skewY(16)" stroke="none">
+      <rect width="114" height="10" rx="2" fill="#e7e4ee"/>
+      <rect y="14" width="114" height="10" rx="2" fill="#e7e4ee"/>
+      <path d="M10 3v4m5-4v4m5-4v4m5-4v4m5-4v4m5-4v4m5-4v4M10 17v4m5-4v4m5-4v4m5-4v4m5-4v4m5-4v4m5-4v4" stroke="#a99ebd" stroke-width="2"/>
+      <g fill="#659d8b"><circle class="motion neuron" cx="86" cy="5" r="2"/><circle class="motion neuron n2" cx="96" cy="5" r="2"/><circle class="motion neuron n3" cx="106" cy="5" r="2"/><circle class="motion neuron n3" cx="86" cy="19" r="2"/><circle class="motion neuron" cx="96" cy="19" r="2"/><circle class="motion neuron n2" cx="106" cy="19" r="2"/></g>
+    </g>
+    <path d="m424 298 113-42 103 49-112 44Z" fill="#f0edf7"/><path d="m424 298 104 51v150l-104-48Z" fill="#e7e5f0"/><path d="m528 349 112-44v145l-112 49Z" fill="url(#glass)"/>
+    <path d="m424 298 104 51 112-44m-112 44v150M537 256v149l-113 46m113-46 103 45" fill="none" stroke="#aba6c4" stroke-dasharray="4 6"/>
+    <path d="m440 319 71 35v121l-71-32Z" fill="#fcfcfe" fill-opacity=".7" stroke="#c8c4d8"/>
+  </g>
+  <g transform="translate(455 342)"><use href="#brain" width="153" height="128"/><g class="motion align" stroke="#9478b6" stroke-width="1.6" fill="none"><path d="M16 65 52 29 94 39 127 67 87 94 45 84Z M52 29l35 65M16 65l78-26M45 84l82-17"/></g><g fill="#957fb0" stroke="#fff" stroke-width="2"><circle class="motion neuron" cx="16" cy="65" r="5"/><circle class="motion neuron n2" cx="52" cy="29" r="5"/><circle class="motion neuron n3" cx="94" cy="39" r="5"/><circle class="motion neuron" cx="127" cy="67" r="5"/><circle class="motion neuron n2" cx="87" cy="94" r="5"/><circle class="motion neuron n3" cx="45" cy="84" r="5"/></g></g>
+  <g transform="translate(414 239)"><rect width="75" height="30" rx="8" fill="#e1f0ea" stroke="#b7d9cf"/><text x="37.5" y="20" text-anchor="middle" font-size="14" style="fill:#3e8173">Image</text></g>
+  <g transform="translate(563 241)"><rect width="68" height="30" rx="8" fill="#eee7f4" stroke="#d3c4e0"/><text x="34" y="20" text-anchor="middle" font-size="14" style="fill:#7d6596">Text</text></g>
+  <path d="M452 272v10l22 8m123-17v13l-22 10" class="fine" stroke-dasharray="3 4"/>
+  <g class="motion align"><rect x="400" y="411" width="9" height="27" rx="3" fill="#a5cebf"/><rect x="400" y="378" width="9" height="27" rx="3" fill="#bdb0d2"/><rect x="650" y="378" width="9" height="27" rx="3" fill="#a5cebf"/><rect x="650" y="411" width="9" height="27" rx="3" fill="#bdb0d2"/></g>
+
+  <!-- Orbital research companion: independent spherical character design. -->
+  <g id="orbital-agent">
+    <ellipse cx="866" cy="506" rx="91" ry="17" fill="#e5e2ee"/>
+    <ellipse cx="866" cy="502" rx="64" ry="11" fill="none" stroke="#b9accb" stroke-width="1.5"/>
+    <ellipse cx="866" cy="502" rx="38" ry="6" fill="none" stroke="#cfc4dd" stroke-width="1.2"/>
+    <path d="M823 477 810 491m103-16 12 16" class="fine" stroke-dasharray="3 5"/>
+    <g class="motion hover">
+      <!-- The asymmetrical orbit makes the agent feel like a small observatory. -->
+      <ellipse cx="862" cy="370" rx="119" ry="76" transform="rotate(-29 862 370)" fill="none" stroke="#d5c9e3" stroke-width="2"/>
+      <path d="M756 397q-5-72 107-107" fill="none" stroke="#b6a1cf" stroke-width="3" stroke-linecap="round"/>
+      <g class="motion satellite"><circle cx="868" cy="289" r="7" fill="#c0acd6" stroke="#937cab" stroke-width="1.5"/><circle cx="867" cy="287" r="2" fill="#fcfaff"/></g>
+      <!-- A three-dimensional pearlescent pod with small radial stabilizers. -->
+      <path d="M805 350q-34-13-49 9l15 31 36-8Z" fill="#cddfdc" stroke="#7d9c9b" stroke-width="1.8" stroke-linejoin="round"/>
+      <path d="m762 362 15 11 27-8" fill="none" stroke="#f5faf5" stroke-width="3"/>
+      <path d="M914 371q29-23 49-8l-3 29-43 13Z" fill="#d5c9e1" stroke="#9c88b2" stroke-width="1.8" stroke-linejoin="round"/>
+      <path d="m953 372-2 13-26 8" fill="none" stroke="#f8f4fd" stroke-width="3"/>
+      <path d="M836 426 849 468q14 13 30-1l16-41" fill="#c3d7d0" stroke="#7e9d97" stroke-width="1.8"/>
+      <path d="M849 451q14 8 30 0" fill="none" stroke="#f6faf2" stroke-width="3"/>
+      <circle cx="863" cy="365" r="80" fill="url(#pod-shell)" stroke="#7d9697" stroke-width="2"/>
+      <path d="M893 291c65 23 68 118 4 144 31-34 29-105-4-144Z" fill="#d1e2dd"/>
+      <path d="M803 339q12-39 49-43" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+      <path d="M816 428q39 22 77 5" fill="none" stroke="#a8c4bb" stroke-width="2"/>
+      <!-- A single large optical eye replaces the earlier expressive screen. -->
+      <ellipse cx="853" cy="363" rx="53" ry="57" fill="#e4d9ef" stroke="#a993be" stroke-width="2"/>
+      <ellipse cx="853" cy="363" rx="44" ry="48" fill="#fcfdf8" stroke="#b9b2c3" stroke-width="1.6"/>
+      <g class="motion gaze">
+        <ellipse cx="853" cy="363" rx="29" ry="33" fill="#80b9b1" stroke="#5f938f" stroke-width="1.6"/>
+        <ellipse cx="853" cy="363" rx="19" ry="23" fill="#315761"/>
+        <ellipse cx="846" cy="351" rx="7" ry="9" fill="#fafff7"/>
+        <circle cx="862" cy="371" r="3" fill="#c5f0da"/>
+        <path d="M837 382q12 8 22 2" fill="none" stroke="#b4dfcd" stroke-width="2"/>
+      </g>
+      <path class="motion shutter" d="M811 351q42-8 84 0v16q-42 9-84 0Z" fill="#e6deee" stroke="#b6a6c6" stroke-width="1.5" opacity="0"/>
+      <g fill="#a9bfc0"><circle cx="925" cy="357" r="3"/><circle cx="925" cy="369" r="3"/><circle cx="925" cy="381" r="3"/></g>
+      <rect x="844" y="421" width="30" height="7" rx="3.5" fill="#d6ddc7"/>
+      <rect class="motion align" x="848" y="423" width="22" height="3" rx="1.5" fill="#74a28a"/>
+    </g>
+    <!-- A light projected console links the companion to the research tools. -->
+    <path d="m861 458-45 26 111 5-43-30" fill="#c8e3dc" fill-opacity=".24" stroke="none"/>
+    <path d="m791 480 99-9 55 29-102 11Z" fill="#f4fbf9" fill-opacity=".9" stroke="#b3d1c8" stroke-width="1.5"/>
+    <path d="m817 482 63-5 10 6-63 6Zm17 13 39-4 10 5-39 5Z" fill="#c7e0d5"/>
+    <path class="motion console-line" d="m886 493 19-2 15 7-20 3Z" fill="#bda8d2"/>
+    <path d="M953 319q26-14 43-9M965 373h29M946 427q31 10 49 4" fill="none" stroke="#bac8ca" stroke-width="1.6" stroke-dasharray="3 5"/>
+    <g transform="translate(976 278)">
+      <g class="motion tool-a"><rect width="58" height="48" rx="18" fill="#e8f2ed" stroke="#93b7a8" stroke-width="1.7"/><circle cx="24" cy="20" r="8" fill="none" stroke="#5a9480" stroke-width="2.4"/><path d="m30 26 8 8" stroke="#5a9480" stroke-width="2.4" stroke-linecap="round"/></g>
+      <g class="motion tool-b"><rect x="12" y="71" width="58" height="48" rx="18" fill="#eee9f5" stroke="#b5a0ce" stroke-width="1.7"/><path d="m35 86-8 9 8 8m18-17 8 9-8 8m-6-20-7 24" fill="none" stroke="#8b71a8" stroke-width="2.2" stroke-linecap="round"/></g>
+      <g class="motion tool-c"><rect y="142" width="58" height="48" rx="18" fill="#f6eedb" stroke="#d0b579" stroke-width="1.7"/><path d="M16 177v-18m12 18v-9m12 9v-24" fill="none" stroke="#b5924a" stroke-width="4.5" stroke-linecap="round"/><path d="M13 181h33" stroke="#b5924a" stroke-width="1.5"/></g>
+    </g>
+  </g>
+
+  <!-- Clinical research setting with a sourced three-shield institution mark. -->
+  <g class="outline">
+    <path d="m1186 329 100-44 88 48v139l-98 43-90-47Z" fill="#f4f8fa"/>
+    <path d="m1276 376 98-43v139l-98 43Z" fill="#d5e4ed"/>
+    <path d="m1180 329 106-47 94 50-104 46Z" fill="#e7f0f5"/>
+    <path d="m1186 340 90 46 98-44" fill="none" stroke="#adc6d4"/>
+    <path d="m1204 357 16 8v24l-16-8Zm29 15 16 8v24l-16-8Zm-29 32 16 8v24l-16-8Zm29 15 16 8v24l-16-8Z" fill="#c1dbe6" stroke="#9abccc"/>
+    <path d="m1292 385 21-9v27l-21 9Zm35-15 22-10v27l-22 10Zm-35 56 21-9v27l-21 9Zm35-15 22-10v27l-22 10Z" fill="#adcfdf" stroke="#87afc3"/>
+    <path d="m1302 381 0 26m36-42v27m-36 30v26m36-41v27" stroke="#eaf5fa"/>
+    <path d="m1247 459 19 10v34l-19-10Z" fill="#8aaabd"/>
+    <path d="m1233 492 33 16 14-7 10 5-24 13-43-22Z" fill="#c2d4de"/>
+  </g>
+  <g transform="translate(1095 366)" class="outline">
+    <path d="m0 10 126-9 13 13v108l-125 11L0 120Z" fill="#e4edf2"/>
+    <path d="m126 1 13 13v108l-13-10Z" fill="#aac2d1"/>
+    <path d="M11 23 116 16v89l-105 9Z" fill="#344d5b"/>
+    <g transform="translate(38 29)"><use href="#axial" width="64" height="73" stroke="none"/><path class="motion mask" d="M38 29q16-4 18 9 3 16-14 19l-8-11Z" fill="#d8b3d5" stroke="#f2d5ee" stroke-width="1.3"/><path class="motion mask" d="M12 40q-5 14 10 19l8-10-4-10Z" fill="#80bfa8" stroke="#beecda" stroke-width="1.3"/></g>
+    <path d="M16 30h13m-13 6h8M101 86h9m-9 7h9" stroke="#8eafbd" stroke-width="1"/>
+    <path d="m54 128-2 20-26 9 56 6 24-9-32-8v-20" fill="#c9dce6"/>
+    <circle cx="64" cy="118" r="3" fill="#9ec9b6" stroke="none"/>
+  </g>
+  <!-- A clinician represents the clinical setting, not the researcher's profession. -->
+  <g id="clinical-colleague" transform="translate(1296 361)" stroke="#82979d" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="44" cy="184" rx="49" ry="8" fill="#cedde4" stroke="none"/>
+    <path d="M21 139 22 176h16l7-32 6 32h16l-2-39Z" fill="#748f9e"/>
+    <path d="M21 174 12 179v7h28v-12m11 0-1 12h27v-7l-11-5" fill="#485f6c"/>
+    <path d="M22 58 5 68l-9 45 16 7 12-32m41-30 17 12 14 42-14 9-19-30" fill="#fcfdf9"/>
+    <path d="M-4 112 2 128l13 1 4-11-9-3m72 0 3 17 9-1 4-13-5-8" fill="#e5bd9f"/>
+    <path d="M31 47v17l14 8 13-10V45" fill="#dbb196"/>
+    <path d="M24 59 44 65l20-7 8 82-26 10-29-9Z" fill="#fffef9"/>
+    <path d="m32 60 12 5 13-5-5 49-9 14-11-18Z" fill="#76b2ad" stroke="#7d9f9f"/>
+    <path d="m28 57-8 15 10 12-7 9 20 32 3 24m15-92 9 15-10 12 6 9-20 32" fill="#f3f6f0"/>
+    <path d="M24 113h12v13H24m30-13h12v13H54" fill="none" stroke="#bdccc7"/>
+    <circle cx="48" cy="133" r="1.4" fill="#a2b0ad" stroke="none"/>
+    <!-- Stethoscope, collar, pocket and identity badge. -->
+    <path d="M30 62v22q0 15 13 15 13 0 13-15V63m-13 36v8q0 11 14 10" fill="none" stroke="#5a7e89" stroke-width="2.4"/>
+    <circle cx="60" cy="117" r="5" fill="#c4dbe1" stroke="#567988" stroke-width="2"/>
+    <rect x="56" y="87" width="12" height="17" rx="2" fill="#f9fcfc" stroke="#b2c7ce"/>
+    <rect x="59" y="90" width="6" height="5" rx="1" fill="#b0d2dd" stroke="none"/>
+    <path d="M59 99h6" stroke="#9fb4bc"/>
+    <!-- Head: a neutral illustrated clinical colleague, not a portrait. -->
+    <ellipse cx="43" cy="29" rx="22" ry="27" fill="#edcbb0"/>
+    <path d="M21 32C13 8 28-6 47-3c20 2 28 21 17 36l-4-19q-14 6-30-5l-5 23Z" fill="#58616a" stroke="#58616a"/>
+    <path d="M20 31q-7-4-4 5l7 5m42-10q7-4 4 5l-7 5" fill="#edcbb0"/>
+    <path d="M29 29h11m8 0h11m-19 1h8" fill="none" stroke="#617480" stroke-width="1.6"/>
+    <rect x="27" y="25" width="14" height="10" rx="4" fill="none" stroke="#617480"/>
+    <rect x="47" y="25" width="14" height="10" rx="4" fill="none" stroke="#617480"/>
+    <path d="M43 33v6h3m-10 7q8 4 15-1" fill="none" stroke="#b68470"/>
+    <!-- A compact tablet carries the animated review check. -->
+    <g transform="translate(-8 100) rotate(-9)"><rect width="31" height="43" rx="4" fill="#d6e4e8" stroke="#6e8e9b"/><rect x="4" y="5" width="23" height="30" rx="2" fill="#f8fcf9" stroke="none"/><g class="motion review"><use href="#check" x="8" y="10" width="16" height="19" stroke="none"/></g><circle cx="16" cy="39" r="1.5" fill="#809ba7" stroke="none"/></g>
+  </g>
+  <g id="mayo-clinician-label" transform="translate(1214 269)">
+    <rect width="178" height="57" rx="12" fill="#fff" stroke="#c8dce7"/>
+    <use href="#mayo-shields" x="12" y="11" width="42" height="34"/>
+    <text x="66" y="35" font-size="21" style="fill:#375f7e">Mayo Clinic</text>
+    <path d="M131 57v25" fill="none" stroke="#a2bbc8" stroke-width="1.5" stroke-dasharray="3 4"/>
+  </g>
+
+  <!-- Stage connectors and data pulses; the return signal closes the research loop. -->
+  <g fill="none" stroke="#afbdc0" stroke-width="1.8" marker-end="url(#arrow)"><path d="M322 374h61"/><path d="M677 374h56"/><path d="M1054 374h30"/></g>
+  <g transform="translate(318 374)"><g class="motion packet-a" opacity="0"><rect x="-5" y="-5" width="10" height="10" rx="3" fill="#5d9e8c"/></g></g>
+  <g transform="translate(671 374)"><g class="motion packet-b" opacity="0"><rect x="-5" y="-5" width="10" height="10" rx="3" fill="#9b84b6"/></g></g>
+  <g transform="translate(1053 374)"><g class="motion packet-c" opacity="0"><rect x="-5" y="-5" width="10" height="10" rx="3" fill="#c7a45d"/></g></g>
+
+  <g text-anchor="middle"><text x="184" y="582" font-size="18" font-weight="600" style="fill:#417d70">CT / MRI / CBCT</text><text x="184" y="610" class="small">Volumes, reports &amp; prompts</text><text x="534" y="582" font-size="18" font-weight="600" style="fill:#7b6496">Image + text representations</text><text x="534" y="610" class="small">Large-scale parallel software</text><text x="873" y="582" font-size="18" font-weight="600" style="fill:#9b7d40">Plan · Use tools · Evaluate</text><text x="873" y="610" class="small">Extensive agent applications</text><text x="1250" y="582" font-size="18" font-weight="600" style="fill:#497e9b">Imaging &amp; radiation oncology</text><text x="1250" y="610" class="small">Clinically grounded research</text></g>
+  <path class="dash" d="M1280 643v48H170v-48" fill="none" stroke="#aac3c7" stroke-width="1.8" stroke-dasharray="5 7" marker-end="url(#arrow)"/>
+  <g transform="translate(1280 643)"><g class="motion feedback" opacity="0"><circle r="5" fill="#59949e"/><circle r="10" fill="none" stroke="#9dbdc4" stroke-width="1"/></g></g>
+  <rect x="470" y="675" width="508" height="32" rx="16" fill="#f5f8f6"/>
+  <text x="724" y="697" text-anchor="middle" font-size="18" style="fill:#66888d">Clinical questions · Experiments · Research feedback</text>
+  <circle cx="52" cy="744" r="4" fill="#77a995"/><text x="66" y="749" font-size="14" style="fill:#7a8a8f">Medical imaging / Multimodal foundation models / AI agents</text>
+</svg>

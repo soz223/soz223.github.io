@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="300" viewBox="0 0 1440 300" role="img" aria-labelledby="title desc" xml:lang="zh-CN">
+  <title id="title">Compute, data and models</title>
+  <desc id="desc">Three original icons illustrate research experience: 50 H200 GPUs in parallel, high-quality medical data at scale, and advanced medical models. Experience and scale are author-reported.</desc>
+  <defs>
+    <style>
+      text{font-family:'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif;fill:#3c5460}
+      .line{stroke-width:2;stroke-linejoin:round;stroke-linecap:round}
+      .light{animation:light 4s ease-in-out infinite}.delay{animation-delay:1s}
+      @keyframes light{0%,100%{opacity:.45}50%{opacity:1}}
+      @media(prefers-reduced-motion:reduce){.light{animation:none}}
+    </style>
+    <symbol id="server" viewBox="0 0 62 104">
+      <path d="M3 8 43 2l16 10v82l-40 7L3 90Z" fill="#eae6f2" stroke="#9d90b2" class="line"/>
+      <path d="m43 2 16 10v82l-16-9Z" fill="#cec4dd" stroke="#9d90b2" class="line"/>
+      <g fill="#faf9fd" stroke="#b6a9c8" stroke-width="1.5"><path d="m9 20 29-4v18l-29 4Z"/><path d="m9 46 29-4v18l-29 4Z"/><path d="m9 72 29-4v18l-29 4Z"/></g>
+      <path d="m14 25 11-1m-11 6 11-1m-11 22 11-1m-11 6 11-1m-11 22 11-1m-11 6 11-1" stroke="#b4a6c5" stroke-width="2" stroke-linecap="round"/>
+      <g fill="#6ba18d"><circle class="light" cx="31" cy="24" r="2.2"/><circle class="light delay" cx="31" cy="50" r="2.2"/><circle class="light" cx="31" cy="76" r="2.2"/></g>
+    </symbol>
+  </defs>
+  <rect x="1" y="1" width="1438" height="298" rx="22" fill="#f8fbfa" stroke="#e2eae8"/>
+  <path d="M480 49v204m480-204v204" stroke="#e0e8e6"/>
+
+  <!-- Parallel compute: linked server racks, with the hardware count below. -->
+  <ellipse cx="240" cy="198" rx="113" ry="11" fill="#e9e5ef"/>
+  <path d="M160 179v31h160v-31m-80-9v40" fill="none" stroke="#b4a8c7" stroke-width="2"/>
+  <circle cx="240" cy="210" r="5" fill="#9b84b3"/>
+  <use href="#server" x="129" y="94" width="63" height="106"/>
+  <use href="#server" x="205" y="62" width="76" height="128"/>
+  <use href="#server" x="293" y="94" width="63" height="106"/>
+  <text x="240" y="260" text-anchor="middle" font-size="23" font-weight="600" style="fill:#74608e">50 H200 GPUs in parallel</text>
+
+  <!-- Curated medical data: a database, imaging record and quality check. -->
+  <ellipse cx="720" cy="205" rx="112" ry="10" fill="#e0ece7"/>
+  <g class="line" stroke="#7ca99a">
+    <path d="M650 91v83c0 12 26 23 57 23s57-11 57-23V91Z" fill="#dceee6"/>
+    <ellipse cx="707" cy="91" rx="57" ry="23" fill="#eff8f2"/>
+    <path d="M650 119c0 13 26 23 57 23s57-10 57-23m-114 29c0 12 26 23 57 23s57-11 57-23" fill="none"/>
+    <ellipse cx="707" cy="91" rx="27" ry="9" fill="#c4ded2" stroke="none"/>
+  </g>
+  <g transform="translate(724 114) rotate(7)" class="line" stroke="#8ba99f">
+    <path d="M0 0h60l14 14v88H0Z" fill="#fffefa"/>
+    <path d="M60 0v15h14" fill="#e3eee6"/>
+    <rect x="11" y="25" width="52" height="48" rx="7" fill="#d1e4df" stroke="none"/>
+    <path d="M37 31c-13-1-21 12-18 22 0 10 9 16 18 15 13 0 20-10 18-21-2-10-8-16-18-16Z" fill="#f3f8f1" stroke="#85a79b" stroke-width="1.5"/>
+    <path d="m30 37-5 9 6 7-3 8m16-24 5 9-6 7 3 8m-10-25v28M12 85h43" fill="none" stroke="#85a79b" stroke-width="1.5"/>
+  </g>
+  <g transform="translate(780 81)"><circle r="21" fill="#e8f4ec" stroke="#8fbaa1" stroke-width="2"/><path d="m-10 0 7 7 14-15" fill="none" stroke="#5a967b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="720" y="260" text-anchor="middle" font-size="23" font-weight="600" style="fill:#467e6b">High-quality medical data at scale</text>
+
+  <!-- Medical models: layered representations around a medical modeling core. -->
+  <ellipse cx="1200" cy="205" rx="109" ry="10" fill="#e3ebf1"/>
+  <g class="line" stroke="#88a8ba">
+    <path d="m1114 167 86-36 86 36-86 39Z" fill="#d9e6ee"/>
+    <path d="m1114 152 86-36 86 36-86 39Z" fill="#e8f0f5"/>
+    <path d="m1144 85 56-26 56 26-56 28Z" fill="#edf5f7"/>
+    <path d="m1144 85 56 28v59l-56-27Z" fill="#dbeaf0"/>
+    <path d="m1200 113 56-28v60l-56 27Z" fill="#c6dce8"/>
+    <path d="M1200 60v54m-56-29 112 60m0-60-112 60" fill="none" stroke="#adc2ce" stroke-dasharray="3 5"/>
+  </g>
+  <g stroke="#7b9bb7" stroke-width="2" fill="#eef5fb"><path d="M1107 111h24m138 0h24m-172 45h17m124 0h17"/><circle cx="1104" cy="111" r="6"/><circle cx="1296" cy="111" r="6"/><circle cx="1118" cy="156" r="5"/><circle cx="1282" cy="156" r="5"/></g>
+  <g transform="translate(1200 113)"><circle r="26" fill="#f9fcfc" stroke="#94b6c5" stroke-width="2"/><path d="M-5-15H5v10h10V5H5v10H-5V5h-10V-5h10Z" fill="#79a99c"/></g>
+  <path d="m1266 56 3 9 9 3-9 3-3 9-3-9-9-3 9-3Z" fill="#ccb16b"/>
+  <text x="1200" y="260" text-anchor="middle" font-size="23" font-weight="600" style="fill:#507f9e">Advanced medical models</text>
+</svg>
