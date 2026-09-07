@@ -67,6 +67,7 @@ function render() {
   root.querySelectorAll('[data-range]').forEach(b=>b.addEventListener('click',()=>setRange(Number(b.dataset.range))));
   root.querySelector('#tool').addEventListener('change',event=>{state.tool=event.target.value;state.limit=40;render();});
   root.querySelector('#motion').addEventListener('click',()=>{state.paused=!state.paused;render();root.querySelector('#motion').focus();});
+  ['#date-from','#date-to'].forEach(selector=>root.querySelector(selector).addEventListener('input',()=>root.querySelector('#date-to').setCustomValidity('')));
   root.querySelector('#dates').addEventListener('submit',event=>{
     event.preventDefault();
     const from=root.querySelector('#date-from'),to=root.querySelector('#date-to');
