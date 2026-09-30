@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-29T16:00:14+00:00",
-  "from": "2025-09-30",
-  "to": "2026-09-29",
+  "updated": "2026-09-30T15:59:27+00:00",
+  "from": "2025-10-01",
+  "to": "2026-09-30",
   "scope": "Commits authored by soz223 on the default branches of owned public, non-fork repositories, over the last 365 days. Deduplicated by SHA. This is not the complete GitHub contribution calendar.",
   "repositories": [
     {
@@ -215,9 +215,9 @@
       "forks": 0
     }
   ],
-  "total": 117,
+  "total": 116,
   "ai": 59,
-  "active_days": 20,
+  "active_days": 19,
   "ai_days": 7,
   "tools": {
     "Codex": 10,
@@ -230,11 +230,6 @@
     "HTML": 4
   },
   "days": [
-    {
-      "date": "2025-09-30",
-      "total": 1,
-      "ai": 0
-    },
     {
       "date": "2025-10-01",
       "total": 0,
@@ -2054,6 +2049,11 @@
       "date": "2026-09-29",
       "total": 0,
       "ai": 0
+    },
+    {
+      "date": "2026-09-30",
+      "total": 0,
+      "ai": 0
     }
   ],
   "commits": [
@@ -3100,14 +3100,6 @@
       "date": "2025-11-19",
       "repo": "green-medagentbench",
       "url": "https://github.com/soz223/green-medagentbench/commit/7bd4b40cebd335b132c62cb7d693c658b2589da5",
-      "tools": [],
-      "evidence": "Unattributed"
-    },
-    {
-      "sha": "7e03a5728eef4ffa91794c20871a7e6552fbc805",
-      "date": "2025-09-30",
-      "repo": "unibrainassistant.com",
-      "url": "https://github.com/soz223/unibrainassistant.com/commit/7e03a5728eef4ffa91794c20871a7e6552fbc805",
       "tools": [],
       "evidence": "Unattributed"
     }
