@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-12T17:39:20+00:00",
-  "from": "2025-11-13",
-  "to": "2026-11-12",
+  "updated": "2026-11-13T17:16:57+00:00",
+  "from": "2025-11-14",
+  "to": "2026-11-13",
   "scope": "Commits authored by soz223 on the default branches of owned public, non-fork repositories, over the last 365 days. Deduplicated by SHA. This is not the complete GitHub contribution calendar.",
   "repositories": [
     {
@@ -222,9 +222,9 @@
       "forks": 0
     }
   ],
-  "total": 166,
+  "total": 194,
   "ai": 59,
-  "active_days": 23,
+  "active_days": 24,
   "ai_days": 7,
   "tools": {
     "Codex": 10,
@@ -237,11 +237,6 @@
     "HTML": 4
   },
   "days": [
-    {
-      "date": "2025-11-13",
-      "total": 0,
-      "ai": 0
-    },
     {
       "date": "2025-11-14",
       "total": 0,
@@ -2059,16 +2054,205 @@
     },
     {
       "date": "2026-11-12",
-      "total": 12,
+      "total": 18,
+      "ai": 0
+    },
+    {
+      "date": "2026-11-13",
+      "total": 22,
       "ai": 0
     }
   ],
   "commits": [
     {
+      "sha": "f24af459615003f70ee93866202834152952ee70",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/f24af459615003f70ee93866202834152952ee70",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "da6fff205ab0a3f3e1d3826c0d85db7bfa6109d3",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/da6fff205ab0a3f3e1d3826c0d85db7bfa6109d3",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "cdadd2a8aa7883348e3971410008027399166f5a",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/cdadd2a8aa7883348e3971410008027399166f5a",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "cb2c8fbd230514eecc78f658463599518e3ea7b0",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/cb2c8fbd230514eecc78f658463599518e3ea7b0",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "c93dbc59009c51ee171a06b004881b9ae22e8eba",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/c93dbc59009c51ee171a06b004881b9ae22e8eba",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "c5164478471f584ff2c74910ca58a8a969d59b13",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/c5164478471f584ff2c74910ca58a8a969d59b13",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "b2b34743c5ec3d62e2ea52c785fcd56c08d67068",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/b2b34743c5ec3d62e2ea52c785fcd56c08d67068",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "9fc639bc7a10e519d5d475b61b236cf9af68f616",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/9fc639bc7a10e519d5d475b61b236cf9af68f616",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "97821a87ebf1ad67968245792be957d369ac009c",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/97821a87ebf1ad67968245792be957d369ac009c",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "8b459cda13201eba853820b1b3daf8b4b8117863",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/8b459cda13201eba853820b1b3daf8b4b8117863",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "82df4f4821bd98e48be879d14c75fec7f9b66d95",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/82df4f4821bd98e48be879d14c75fec7f9b66d95",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "82abfd15bfbe582c71b0b9b65653d8f5e3964d9c",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/82abfd15bfbe582c71b0b9b65653d8f5e3964d9c",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "73f00d7aa1a3d1ab79ed7acb27205893c46f299f",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/73f00d7aa1a3d1ab79ed7acb27205893c46f299f",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "680c01f096ee316ec9646c3d8e5c8d2ce96b7575",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/680c01f096ee316ec9646c3d8e5c8d2ce96b7575",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "414a97e9ed95cd4fb96efd95be2f670c63cfd0e9",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/414a97e9ed95cd4fb96efd95be2f670c63cfd0e9",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "402fec7dce4e92ce785b1a622fdba15f644e8025",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/402fec7dce4e92ce785b1a622fdba15f644e8025",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "3a6c2e3acfff7e11fa9f8e3f1da3efadb00ee47d",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/3a6c2e3acfff7e11fa9f8e3f1da3efadb00ee47d",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "3669d28da8ac2341dc0c0926b1f95c430453e389",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/3669d28da8ac2341dc0c0926b1f95c430453e389",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "35e93def3ac4655279f5ebf26e8dbf5e4ecd11c4",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/35e93def3ac4655279f5ebf26e8dbf5e4ecd11c4",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "1d1bf4ad5ef18dfa421c5dbf2349865e369f0cb3",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/1d1bf4ad5ef18dfa421c5dbf2349865e369f0cb3",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "1b6dfb821810c9a0caa7e0e6705a4961c1011e66",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/1b6dfb821810c9a0caa7e0e6705a4961c1011e66",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "150003d36527c272362c54da3e78d481cebb25fb",
+      "date": "2026-11-13",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/150003d36527c272362c54da3e78d481cebb25fb",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
       "sha": "f28bec63ea7bb79db48cc162c02a08fc8bdc1913",
       "date": "2026-11-12",
       "repo": "UniBrain-Agent",
       "url": "https://github.com/soz223/UniBrain-Agent/commit/f28bec63ea7bb79db48cc162c02a08fc8bdc1913",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "f24e56d9c9719b1a99a6c76d30d0d5e69fe79916",
+      "date": "2026-11-12",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/f24e56d9c9719b1a99a6c76d30d0d5e69fe79916",
       "tools": [],
       "evidence": "Unattributed"
     },
@@ -2097,6 +2281,14 @@
       "evidence": "Unattributed"
     },
     {
+      "sha": "88c898d9ee57fc0dbbccdfe88f213f451c9433ba",
+      "date": "2026-11-12",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/88c898d9ee57fc0dbbccdfe88f213f451c9433ba",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
       "sha": "725d2d526317dd2c85667f88dc10b48874773add",
       "date": "2026-11-12",
       "repo": "UniBrain-Agent",
@@ -2113,10 +2305,34 @@
       "evidence": "Unattributed"
     },
     {
+      "sha": "5e0cb9d0296a8572b3061c51d8964abd9df43ef2",
+      "date": "2026-11-12",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/5e0cb9d0296a8572b3061c51d8964abd9df43ef2",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
       "sha": "543d0e09c19c7d9da0c20fe29511c8a76e552763",
       "date": "2026-11-12",
       "repo": "UniBrain-Agent",
       "url": "https://github.com/soz223/UniBrain-Agent/commit/543d0e09c19c7d9da0c20fe29511c8a76e552763",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "3cf5ed607383cd0bbe6a3862ad5c545f371f2c44",
+      "date": "2026-11-12",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/3cf5ed607383cd0bbe6a3862ad5c545f371f2c44",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "3196dd58d1e970e78dbfc487909734dc586a980d",
+      "date": "2026-11-12",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/3196dd58d1e970e78dbfc487909734dc586a980d",
       "tools": [],
       "evidence": "Unattributed"
     },
@@ -2157,6 +2373,14 @@
       "date": "2026-11-12",
       "repo": "UniBrain-Agent",
       "url": "https://github.com/soz223/UniBrain-Agent/commit/1fb7a4720864758dc3118898ffd6972e1e4a19d0",
+      "tools": [],
+      "evidence": "Unattributed"
+    },
+    {
+      "sha": "03b91f64abfd307787f58ad4696ecd14e077e17d",
+      "date": "2026-11-12",
+      "repo": "UniBrain-Agent",
+      "url": "https://github.com/soz223/UniBrain-Agent/commit/03b91f64abfd307787f58ad4696ecd14e077e17d",
       "tools": [],
       "evidence": "Unattributed"
     },
